@@ -1,4 +1,5 @@
 # WeatherService
+Test with these :
 
 GET http://localhost:8080/api/weather/London
 GET http://localhost:8080/api/location/London
